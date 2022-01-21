@@ -1,0 +1,4 @@
+configuration\AppInit.class
+configuration\WebConfig.class
+configuration\RootConfig.class
+model\User.class
